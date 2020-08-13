@@ -5,4 +5,3 @@ to detect the presence of an Intruder.
 
 
 ![Block Diagram](/Project%20Images/Capture.PNG)
-Format: ![Alt Text](url
